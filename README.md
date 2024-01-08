@@ -1,4 +1,5 @@
 # demo-repo
 Hii My Name Is Vikas. 
 <br>
-I am learni ng git and github
+I am learning git and github
+i changing things to get status command
